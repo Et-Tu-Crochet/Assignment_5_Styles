@@ -1,0 +1,28 @@
+a{
+    color: #E0993E;
+}
+body{
+    background-color: #8C50DE;
+}
+p{
+    color: #E0993E;
+}
+em{
+    color: rgb(143,38,31);
+}
+b{
+    background-color: rgb(199,58,222);
+
+}
+u{
+    background-color: orange;
+}
+*{
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.color{
+    color: darkblue;
+    background-color: white;
+}
